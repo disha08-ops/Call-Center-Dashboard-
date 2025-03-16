@@ -15,12 +15,12 @@ Identify bottlenecks and optimize operations
   Average Speed of Answer: 54.75
   Total Ratings Received: 5000
 📈 Visual Breakdown:
-  Count of Topic by Topic (Pie Chart)
+  Count of Topics by Topic (Pie Chart)
   Streaming (19.52%)
   Technical Support (20.44%)
   Payment Related (20.38%)
   Admin Support (20.14%)
-  Contract Related (19.52%)
+  Contract related (19.52%)
   Agent vs. Calls Answered (Bar & Line Chart)
   Visual comparison of calls answered vs. call duration for each agent.
   Example: Jim answered 536 calls with 666 mins total talk time.
