@@ -1,6 +1,6 @@
 Title: Call Center Performance Dashboard – Power BI Project
 
-Bio: This Power BI dashboard offers a detailed analysis of call center operations, focusing on agent performance, customer satisfaction, and call handling efficiency. Key metrics include total calls answered, abandoned calls, average talk duration, speed of answer, and overall ratings. The dashboard includes:
+This Power BI dashboard offers a detailed analysis of call center operations, focusing on agent performance, customer satisfaction, and call handling efficiency. Key metrics include total calls answered, abandoned calls, average talk duration, speed of answer, and overall ratings. The dashboard includes:
 
 Visuals on call topics distribution.
 Agent-wise comparison of calls answered and issues resolved.
